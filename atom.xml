@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>搞定offer-专注大学生求职成功</title>
+  <title>搞定offer-专注留学生求职成功</title>
   
   <subtitle>搞定offer</subtitle>
-  <link href="https://blog.gaodingcareer.com/atom.xml" rel="self"/>
+  <link href="https://www.gaodingcareer.com/atom.xml" rel="self"/>
   
-  <link href="https://blog.gaodingcareer.com/"/>
+  <link href="https://www.gaodingcareer.com/"/>
   <updated>2025-02-27T05:42:15.187Z</updated>
-  <id>https://blog.gaodingcareer.com/</id>
+  <id>https://www.gaodingcareer.com/</id>
   
   <author>
     <name>搞定offer</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>公司介绍</title>
-    <link href="https://blog.gaodingcareer.com/about/"/>
-    <id>https://blog.gaodingcareer.com/about/</id>
+    <link href="https://www.gaodingcareer.com/about/"/>
+    <id>https://www.gaodingcareer.com/about/</id>
     <published>2025-02-27T05:18:10.000Z</published>
     <updated>2025-02-27T05:42:15.187Z</updated>
     
@@ -34,15 +34,15 @@
     
     
     
-    <category term="公司介绍" scheme="https://blog.gaodingcareer.com/categories/%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%BB%8D/"/>
+    <category term="公司介绍" scheme="https://www.gaodingcareer.com/categories/%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%BB%8D/"/>
     
     
   </entry>
   
   <entry>
     <title>国央企如何吸纳更多AI、区块链人才？</title>
-    <link href="https://blog.gaodingcareer.com/d25f07dd-1f85-4df1-afe1-35286e39d8b4/"/>
-    <id>https://blog.gaodingcareer.com/d25f07dd-1f85-4df1-afe1-35286e39d8b4/</id>
+    <link href="https://www.gaodingcareer.com/d25f07dd-1f85-4df1-afe1-35286e39d8b4/"/>
+    <id>https://www.gaodingcareer.com/d25f07dd-1f85-4df1-afe1-35286e39d8b4/</id>
     <published>2025-02-27T04:22:29.000Z</published>
     <updated>2025-02-27T04:22:29.597Z</updated>
     
@@ -57,25 +57,25 @@
     
     
     
-    <category term="留学生就业" scheme="https://blog.gaodingcareer.com/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
+    <category term="留学生就业" scheme="https://www.gaodingcareer.com/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
     
     
-    <category term="求职攻略" scheme="https://blog.gaodingcareer.com/tags/%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5/"/>
+    <category term="求职攻略" scheme="https://www.gaodingcareer.com/tags/%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5/"/>
     
-    <category term="职业规划" scheme="https://blog.gaodingcareer.com/tags/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/"/>
+    <category term="职业规划" scheme="https://www.gaodingcareer.com/tags/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/"/>
     
-    <category term="海归找工作" scheme="https://blog.gaodingcareer.com/tags/%E6%B5%B7%E5%BD%92%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
+    <category term="海归找工作" scheme="https://www.gaodingcareer.com/tags/%E6%B5%B7%E5%BD%92%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
     
-    <category term="AI人才需求" scheme="https://blog.gaodingcareer.com/tags/AI%E4%BA%BA%E6%89%8D%E9%9C%80%E6%B1%82/"/>
+    <category term="AI人才需求" scheme="https://www.gaodingcareer.com/tags/AI%E4%BA%BA%E6%89%8D%E9%9C%80%E6%B1%82/"/>
     
-    <category term="区块链领域" scheme="https://blog.gaodingcareer.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A2%86%E5%9F%9F/"/>
+    <category term="区块链领域" scheme="https://www.gaodingcareer.com/tags/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%A2%86%E5%9F%9F/"/>
     
   </entry>
   
   <entry>
     <title>【2025-02-27】银行/金融校招岗位信息快讯 - 1</title>
-    <link href="https://blog.gaodingcareer.com/ff006499-5c37-4586-ac7a-af858a3c4590/"/>
-    <id>https://blog.gaodingcareer.com/ff006499-5c37-4586-ac7a-af858a3c4590/</id>
+    <link href="https://www.gaodingcareer.com/ff006499-5c37-4586-ac7a-af858a3c4590/"/>
+    <id>https://www.gaodingcareer.com/ff006499-5c37-4586-ac7a-af858a3c4590/</id>
     <published>2025-02-27T03:04:17.000Z</published>
     <updated>2025-02-27T03:04:17.887Z</updated>
     
@@ -90,21 +90,21 @@
     
     
     
-    <category term="最新岗位" scheme="https://blog.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
+    <category term="最新岗位" scheme="https://www.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
     
     
-    <category term="校招" scheme="https://blog.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
+    <category term="校招" scheme="https://www.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
     
-    <category term="岗位" scheme="https://blog.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
+    <category term="岗位" scheme="https://www.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
     
-    <category term="银行/金融" scheme="https://blog.gaodingcareer.com/tags/%E9%93%B6%E8%A1%8C-%E9%87%91%E8%9E%8D/"/>
+    <category term="银行/金融" scheme="https://www.gaodingcareer.com/tags/%E9%93%B6%E8%A1%8C-%E9%87%91%E8%9E%8D/"/>
     
   </entry>
   
   <entry>
     <title>【2025-02-27】游戏校招岗位信息快讯 - 1</title>
-    <link href="https://blog.gaodingcareer.com/90f514db-4e7f-4cf2-b007-a5f59d454336/"/>
-    <id>https://blog.gaodingcareer.com/90f514db-4e7f-4cf2-b007-a5f59d454336/</id>
+    <link href="https://www.gaodingcareer.com/90f514db-4e7f-4cf2-b007-a5f59d454336/"/>
+    <id>https://www.gaodingcareer.com/90f514db-4e7f-4cf2-b007-a5f59d454336/</id>
     <published>2025-02-27T03:03:09.000Z</published>
     <updated>2025-02-27T03:03:09.538Z</updated>
     
@@ -119,21 +119,21 @@
     
     
     
-    <category term="最新岗位" scheme="https://blog.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
+    <category term="最新岗位" scheme="https://www.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
     
     
-    <category term="校招" scheme="https://blog.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
+    <category term="校招" scheme="https://www.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
     
-    <category term="岗位" scheme="https://blog.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
+    <category term="岗位" scheme="https://www.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
     
-    <category term="游戏" scheme="https://blog.gaodingcareer.com/tags/%E6%B8%B8%E6%88%8F/"/>
+    <category term="游戏" scheme="https://www.gaodingcareer.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
   <entry>
     <title>【2025-02-27】一线大厂校招岗位信息快讯 - 1</title>
-    <link href="https://blog.gaodingcareer.com/99be5658-ad7d-402f-bd54-84e5ba7e6c37/"/>
-    <id>https://blog.gaodingcareer.com/99be5658-ad7d-402f-bd54-84e5ba7e6c37/</id>
+    <link href="https://www.gaodingcareer.com/99be5658-ad7d-402f-bd54-84e5ba7e6c37/"/>
+    <id>https://www.gaodingcareer.com/99be5658-ad7d-402f-bd54-84e5ba7e6c37/</id>
     <published>2025-02-27T03:01:55.000Z</published>
     <updated>2025-02-27T03:01:55.097Z</updated>
     
@@ -148,21 +148,21 @@
     
     
     
-    <category term="最新岗位" scheme="https://blog.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
+    <category term="最新岗位" scheme="https://www.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
     
     
-    <category term="校招" scheme="https://blog.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
+    <category term="校招" scheme="https://www.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
     
-    <category term="岗位" scheme="https://blog.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
+    <category term="岗位" scheme="https://www.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
     
-    <category term="一线大厂" scheme="https://blog.gaodingcareer.com/tags/%E4%B8%80%E7%BA%BF%E5%A4%A7%E5%8E%82/"/>
+    <category term="一线大厂" scheme="https://www.gaodingcareer.com/tags/%E4%B8%80%E7%BA%BF%E5%A4%A7%E5%8E%82/"/>
     
   </entry>
   
   <entry>
     <title>【2025-02-27】外企校招岗位信息快讯 - 1</title>
-    <link href="https://blog.gaodingcareer.com/cb01cb3c-c8eb-41df-ade4-15c29350e701/"/>
-    <id>https://blog.gaodingcareer.com/cb01cb3c-c8eb-41df-ade4-15c29350e701/</id>
+    <link href="https://www.gaodingcareer.com/cb01cb3c-c8eb-41df-ade4-15c29350e701/"/>
+    <id>https://www.gaodingcareer.com/cb01cb3c-c8eb-41df-ade4-15c29350e701/</id>
     <published>2025-02-27T03:01:03.000Z</published>
     <updated>2025-02-27T03:01:03.549Z</updated>
     
@@ -177,21 +177,21 @@
     
     
     
-    <category term="最新岗位" scheme="https://blog.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
+    <category term="最新岗位" scheme="https://www.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
     
     
-    <category term="校招" scheme="https://blog.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
+    <category term="校招" scheme="https://www.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
     
-    <category term="岗位" scheme="https://blog.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
+    <category term="岗位" scheme="https://www.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
     
-    <category term="外企" scheme="https://blog.gaodingcareer.com/tags/%E5%A4%96%E4%BC%81/"/>
+    <category term="外企" scheme="https://www.gaodingcareer.com/tags/%E5%A4%96%E4%BC%81/"/>
     
   </entry>
   
   <entry>
     <title>【2025-02-27】事业单位校招岗位信息快讯 - 1</title>
-    <link href="https://blog.gaodingcareer.com/e7d648da-c8db-42a5-b0aa-cba7723bdc4f/"/>
-    <id>https://blog.gaodingcareer.com/e7d648da-c8db-42a5-b0aa-cba7723bdc4f/</id>
+    <link href="https://www.gaodingcareer.com/e7d648da-c8db-42a5-b0aa-cba7723bdc4f/"/>
+    <id>https://www.gaodingcareer.com/e7d648da-c8db-42a5-b0aa-cba7723bdc4f/</id>
     <published>2025-02-27T02:59:57.000Z</published>
     <updated>2025-02-27T02:59:57.176Z</updated>
     
@@ -206,21 +206,21 @@
     
     
     
-    <category term="最新岗位" scheme="https://blog.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
+    <category term="最新岗位" scheme="https://www.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
     
     
-    <category term="校招" scheme="https://blog.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
+    <category term="校招" scheme="https://www.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
     
-    <category term="岗位" scheme="https://blog.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
+    <category term="岗位" scheme="https://www.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
     
-    <category term="事业单位" scheme="https://blog.gaodingcareer.com/tags/%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D/"/>
+    <category term="事业单位" scheme="https://www.gaodingcareer.com/tags/%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D/"/>
     
   </entry>
   
   <entry>
     <title>【2025-02-27】国企校招岗位信息快讯 - 2</title>
-    <link href="https://blog.gaodingcareer.com/23adc0cc-4aab-42f1-9494-11da23d907ec/"/>
-    <id>https://blog.gaodingcareer.com/23adc0cc-4aab-42f1-9494-11da23d907ec/</id>
+    <link href="https://www.gaodingcareer.com/23adc0cc-4aab-42f1-9494-11da23d907ec/"/>
+    <id>https://www.gaodingcareer.com/23adc0cc-4aab-42f1-9494-11da23d907ec/</id>
     <published>2025-02-27T02:59:09.000Z</published>
     <updated>2025-02-27T02:59:09.683Z</updated>
     
@@ -235,21 +235,21 @@
     
     
     
-    <category term="最新岗位" scheme="https://blog.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
+    <category term="最新岗位" scheme="https://www.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
     
     
-    <category term="校招" scheme="https://blog.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
+    <category term="校招" scheme="https://www.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
     
-    <category term="岗位" scheme="https://blog.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
+    <category term="岗位" scheme="https://www.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
     
-    <category term="国企" scheme="https://blog.gaodingcareer.com/tags/%E5%9B%BD%E4%BC%81/"/>
+    <category term="国企" scheme="https://www.gaodingcareer.com/tags/%E5%9B%BD%E4%BC%81/"/>
     
   </entry>
   
   <entry>
     <title>【2025-02-27】汽车/新能源校招岗位信息快讯 - 1</title>
-    <link href="https://blog.gaodingcareer.com/00bf0dc7-2e1f-4319-b398-e4e7bbdb84a6/"/>
-    <id>https://blog.gaodingcareer.com/00bf0dc7-2e1f-4319-b398-e4e7bbdb84a6/</id>
+    <link href="https://www.gaodingcareer.com/00bf0dc7-2e1f-4319-b398-e4e7bbdb84a6/"/>
+    <id>https://www.gaodingcareer.com/00bf0dc7-2e1f-4319-b398-e4e7bbdb84a6/</id>
     <published>2025-02-27T02:57:19.000Z</published>
     <updated>2025-02-27T02:57:19.325Z</updated>
     
@@ -264,21 +264,21 @@
     
     
     
-    <category term="最新岗位" scheme="https://blog.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
+    <category term="最新岗位" scheme="https://www.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
     
     
-    <category term="校招" scheme="https://blog.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
+    <category term="校招" scheme="https://www.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
     
-    <category term="岗位" scheme="https://blog.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
+    <category term="岗位" scheme="https://www.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
     
-    <category term="汽车/新能源" scheme="https://blog.gaodingcareer.com/tags/%E6%B1%BD%E8%BD%A6-%E6%96%B0%E8%83%BD%E6%BA%90/"/>
+    <category term="汽车/新能源" scheme="https://www.gaodingcareer.com/tags/%E6%B1%BD%E8%BD%A6-%E6%96%B0%E8%83%BD%E6%BA%90/"/>
     
   </entry>
   
   <entry>
     <title>【2025-02-27】国企校招岗位信息快讯 - 1</title>
-    <link href="https://blog.gaodingcareer.com/165cfb28-c0a4-4450-a048-db74e5df71d9/"/>
-    <id>https://blog.gaodingcareer.com/165cfb28-c0a4-4450-a048-db74e5df71d9/</id>
+    <link href="https://www.gaodingcareer.com/165cfb28-c0a4-4450-a048-db74e5df71d9/"/>
+    <id>https://www.gaodingcareer.com/165cfb28-c0a4-4450-a048-db74e5df71d9/</id>
     <published>2025-02-27T02:29:14.000Z</published>
     <updated>2025-02-27T02:29:14.857Z</updated>
     
@@ -293,21 +293,21 @@
     
     
     
-    <category term="最新岗位" scheme="https://blog.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
+    <category term="最新岗位" scheme="https://www.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
     
     
-    <category term="校招" scheme="https://blog.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
+    <category term="校招" scheme="https://www.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
     
-    <category term="岗位" scheme="https://blog.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
+    <category term="岗位" scheme="https://www.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
     
-    <category term="国企" scheme="https://blog.gaodingcareer.com/tags/%E5%9B%BD%E4%BC%81/"/>
+    <category term="国企" scheme="https://www.gaodingcareer.com/tags/%E5%9B%BD%E4%BC%81/"/>
     
   </entry>
   
   <entry>
     <title>【2025-02-27】互联网校招岗位信息快讯 - 1</title>
-    <link href="https://blog.gaodingcareer.com/595b02f9-b379-4f97-9e81-96f5e6fe48c4/"/>
-    <id>https://blog.gaodingcareer.com/595b02f9-b379-4f97-9e81-96f5e6fe48c4/</id>
+    <link href="https://www.gaodingcareer.com/595b02f9-b379-4f97-9e81-96f5e6fe48c4/"/>
+    <id>https://www.gaodingcareer.com/595b02f9-b379-4f97-9e81-96f5e6fe48c4/</id>
     <published>2025-02-27T02:27:48.000Z</published>
     <updated>2025-02-27T02:27:48.742Z</updated>
     
@@ -322,21 +322,21 @@
     
     
     
-    <category term="最新岗位" scheme="https://blog.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
+    <category term="最新岗位" scheme="https://www.gaodingcareer.com/categories/%E6%9C%80%E6%96%B0%E5%B2%97%E4%BD%8D/"/>
     
     
-    <category term="互联网" scheme="https://blog.gaodingcareer.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    <category term="互联网" scheme="https://www.gaodingcareer.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
-    <category term="校招" scheme="https://blog.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
+    <category term="校招" scheme="https://www.gaodingcareer.com/tags/%E6%A0%A1%E6%8B%9B/"/>
     
-    <category term="岗位" scheme="https://blog.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
+    <category term="岗位" scheme="https://www.gaodingcareer.com/tags/%E5%B2%97%E4%BD%8D/"/>
     
   </entry>
   
   <entry>
     <title>如何进入人工智能行业？AI 相关岗位求职攻略</title>
-    <link href="https://blog.gaodingcareer.com/89d41b92-5730-4428-926d-e8d1ad091b49/"/>
-    <id>https://blog.gaodingcareer.com/89d41b92-5730-4428-926d-e8d1ad091b49/</id>
+    <link href="https://www.gaodingcareer.com/89d41b92-5730-4428-926d-e8d1ad091b49/"/>
+    <id>https://www.gaodingcareer.com/89d41b92-5730-4428-926d-e8d1ad091b49/</id>
     <published>2025-02-27T01:22:44.000Z</published>
     <updated>2025-02-27T01:22:44.510Z</updated>
     
@@ -351,25 +351,25 @@
     
     
     
-    <category term="行业求职" scheme="https://blog.gaodingcareer.com/categories/%E8%A1%8C%E4%B8%9A%E6%B1%82%E8%81%8C/"/>
+    <category term="行业求职" scheme="https://www.gaodingcareer.com/categories/%E8%A1%8C%E4%B8%9A%E6%B1%82%E8%81%8C/"/>
     
     
-    <category term="留学生就业" scheme="https://blog.gaodingcareer.com/tags/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
+    <category term="留学生就业" scheme="https://www.gaodingcareer.com/tags/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
     
-    <category term="人工智能" scheme="https://blog.gaodingcareer.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://www.gaodingcareer.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
-    <category term="求职攻略" scheme="https://blog.gaodingcareer.com/tags/%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5/"/>
+    <category term="求职攻略" scheme="https://www.gaodingcareer.com/tags/%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5/"/>
     
-    <category term="行业认知" scheme="https://blog.gaodingcareer.com/tags/%E8%A1%8C%E4%B8%9A%E8%AE%A4%E7%9F%A5/"/>
+    <category term="行业认知" scheme="https://www.gaodingcareer.com/tags/%E8%A1%8C%E4%B8%9A%E8%AE%A4%E7%9F%A5/"/>
     
-    <category term="AI岗位" scheme="https://blog.gaodingcareer.com/tags/AI%E5%B2%97%E4%BD%8D/"/>
+    <category term="AI岗位" scheme="https://www.gaodingcareer.com/tags/AI%E5%B2%97%E4%BD%8D/"/>
     
   </entry>
   
   <entry>
     <title>简历中的实习经历怎么写才能最大化加分？</title>
-    <link href="https://blog.gaodingcareer.com/e46715b4-c5d5-4e99-ae9f-0777f4fdbec6/"/>
-    <id>https://blog.gaodingcareer.com/e46715b4-c5d5-4e99-ae9f-0777f4fdbec6/</id>
+    <link href="https://www.gaodingcareer.com/e46715b4-c5d5-4e99-ae9f-0777f4fdbec6/"/>
+    <id>https://www.gaodingcareer.com/e46715b4-c5d5-4e99-ae9f-0777f4fdbec6/</id>
     <published>2025-02-27T01:03:41.000Z</published>
     <updated>2025-02-27T01:03:41.529Z</updated>
     
@@ -384,25 +384,25 @@
     
     
     
-    <category term="国央企求职" scheme="https://blog.gaodingcareer.com/categories/%E5%9B%BD%E5%A4%AE%E4%BC%81%E6%B1%82%E8%81%8C/"/>
+    <category term="国央企求职" scheme="https://www.gaodingcareer.com/categories/%E5%9B%BD%E5%A4%AE%E4%BC%81%E6%B1%82%E8%81%8C/"/>
     
     
-    <category term="留学生就业" scheme="https://blog.gaodingcareer.com/tags/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
+    <category term="留学生就业" scheme="https://www.gaodingcareer.com/tags/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
     
-    <category term="职场求生" scheme="https://blog.gaodingcareer.com/tags/%E8%81%8C%E5%9C%BA%E6%B1%82%E7%94%9F/"/>
+    <category term="职场求生" scheme="https://www.gaodingcareer.com/tags/%E8%81%8C%E5%9C%BA%E6%B1%82%E7%94%9F/"/>
     
-    <category term="行业求职" scheme="https://blog.gaodingcareer.com/tags/%E8%A1%8C%E4%B8%9A%E6%B1%82%E8%81%8C/"/>
+    <category term="行业求职" scheme="https://www.gaodingcareer.com/tags/%E8%A1%8C%E4%B8%9A%E6%B1%82%E8%81%8C/"/>
     
-    <category term="实习内推" scheme="https://blog.gaodingcareer.com/tags/%E5%AE%9E%E4%B9%A0%E5%86%85%E6%8E%A8/"/>
+    <category term="实习内推" scheme="https://www.gaodingcareer.com/tags/%E5%AE%9E%E4%B9%A0%E5%86%85%E6%8E%A8/"/>
     
-    <category term="简历设计" scheme="https://blog.gaodingcareer.com/tags/%E7%AE%80%E5%8E%86%E8%AE%BE%E8%AE%A1/"/>
+    <category term="简历设计" scheme="https://www.gaodingcareer.com/tags/%E7%AE%80%E5%8E%86%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
     <title>国央企求职避坑指南：如何避免简历秒刷？</title>
-    <link href="https://blog.gaodingcareer.com/5ef67cb1-a654-4f2b-8f0b-25e3adc1a8e1/"/>
-    <id>https://blog.gaodingcareer.com/5ef67cb1-a654-4f2b-8f0b-25e3adc1a8e1/</id>
+    <link href="https://www.gaodingcareer.com/5ef67cb1-a654-4f2b-8f0b-25e3adc1a8e1/"/>
+    <id>https://www.gaodingcareer.com/5ef67cb1-a654-4f2b-8f0b-25e3adc1a8e1/</id>
     <published>2025-02-26T22:22:33.000Z</published>
     <updated>2025-02-26T22:22:33.220Z</updated>
     
@@ -417,25 +417,25 @@
     
     
     
-    <category term="留学生就业" scheme="https://blog.gaodingcareer.com/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
+    <category term="留学生就业" scheme="https://www.gaodingcareer.com/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
     
     
-    <category term="职业规划" scheme="https://blog.gaodingcareer.com/tags/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/"/>
+    <category term="职业规划" scheme="https://www.gaodingcareer.com/tags/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/"/>
     
-    <category term="留学生回国" scheme="https://blog.gaodingcareer.com/tags/%E7%95%99%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%9B%BD/"/>
+    <category term="留学生回国" scheme="https://www.gaodingcareer.com/tags/%E7%95%99%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%9B%BD/"/>
     
-    <category term="求职准备" scheme="https://blog.gaodingcareer.com/tags/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/"/>
+    <category term="求职准备" scheme="https://www.gaodingcareer.com/tags/%E6%B1%82%E8%81%8C%E5%87%86%E5%A4%87/"/>
     
-    <category term="行业认知" scheme="https://blog.gaodingcareer.com/tags/%E8%A1%8C%E4%B8%9A%E8%AE%A4%E7%9F%A5/"/>
+    <category term="行业认知" scheme="https://www.gaodingcareer.com/tags/%E8%A1%8C%E4%B8%9A%E8%AE%A4%E7%9F%A5/"/>
     
-    <category term="简历定制" scheme="https://blog.gaodingcareer.com/tags/%E7%AE%80%E5%8E%86%E5%AE%9A%E5%88%B6/"/>
+    <category term="简历定制" scheme="https://www.gaodingcareer.com/tags/%E7%AE%80%E5%8E%86%E5%AE%9A%E5%88%B6/"/>
     
   </entry>
   
   <entry>
     <title>“你为什么选择我们公司？”最地道的回答技巧</title>
-    <link href="https://blog.gaodingcareer.com/0bd8a667-b010-4e1a-b6d0-b747f553d368/"/>
-    <id>https://blog.gaodingcareer.com/0bd8a667-b010-4e1a-b6d0-b747f553d368/</id>
+    <link href="https://www.gaodingcareer.com/0bd8a667-b010-4e1a-b6d0-b747f553d368/"/>
+    <id>https://www.gaodingcareer.com/0bd8a667-b010-4e1a-b6d0-b747f553d368/</id>
     <published>2025-02-26T19:22:35.000Z</published>
     <updated>2025-02-26T19:22:35.493Z</updated>
     
@@ -450,25 +450,25 @@
     
     
     
-    <category term="留学生就业" scheme="https://blog.gaodingcareer.com/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
+    <category term="留学生就业" scheme="https://www.gaodingcareer.com/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
     
     
-    <category term="求职案例" scheme="https://blog.gaodingcareer.com/tags/%E6%B1%82%E8%81%8C%E6%A1%88%E4%BE%8B/"/>
+    <category term="求职案例" scheme="https://www.gaodingcareer.com/tags/%E6%B1%82%E8%81%8C%E6%A1%88%E4%BE%8B/"/>
     
-    <category term="职场求生" scheme="https://blog.gaodingcareer.com/tags/%E8%81%8C%E5%9C%BA%E6%B1%82%E7%94%9F/"/>
+    <category term="职场求生" scheme="https://www.gaodingcareer.com/tags/%E8%81%8C%E5%9C%BA%E6%B1%82%E7%94%9F/"/>
     
-    <category term="行业求职" scheme="https://blog.gaodingcareer.com/tags/%E8%A1%8C%E4%B8%9A%E6%B1%82%E8%81%8C/"/>
+    <category term="行业求职" scheme="https://www.gaodingcareer.com/tags/%E8%A1%8C%E4%B8%9A%E6%B1%82%E8%81%8C/"/>
     
-    <category term="实习内推" scheme="https://blog.gaodingcareer.com/tags/%E5%AE%9E%E4%B9%A0%E5%86%85%E6%8E%A8/"/>
+    <category term="实习内推" scheme="https://www.gaodingcareer.com/tags/%E5%AE%9E%E4%B9%A0%E5%86%85%E6%8E%A8/"/>
     
-    <category term="简历设计" scheme="https://blog.gaodingcareer.com/tags/%E7%AE%80%E5%8E%86%E8%AE%BE%E8%AE%A1/"/>
+    <category term="简历设计" scheme="https://www.gaodingcareer.com/tags/%E7%AE%80%E5%8E%86%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
   <entry>
     <title>中国航天科技集团 VS 中国航天科工集团</title>
-    <link href="https://blog.gaodingcareer.com/79e0fbe5-0279-465c-bd64-d121580038c0/"/>
-    <id>https://blog.gaodingcareer.com/79e0fbe5-0279-465c-bd64-d121580038c0/</id>
+    <link href="https://www.gaodingcareer.com/79e0fbe5-0279-465c-bd64-d121580038c0/"/>
+    <id>https://www.gaodingcareer.com/79e0fbe5-0279-465c-bd64-d121580038c0/</id>
     <published>2025-02-26T16:22:37.000Z</published>
     <updated>2025-02-26T16:22:37.944Z</updated>
     
@@ -483,25 +483,25 @@
     
     
     
-    <category term="国央企求职" scheme="https://blog.gaodingcareer.com/categories/%E5%9B%BD%E5%A4%AE%E4%BC%81%E6%B1%82%E8%81%8C/"/>
+    <category term="国央企求职" scheme="https://www.gaodingcareer.com/categories/%E5%9B%BD%E5%A4%AE%E4%BC%81%E6%B1%82%E8%81%8C/"/>
     
     
-    <category term="留学生就业" scheme="https://blog.gaodingcareer.com/tags/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
+    <category term="留学生就业" scheme="https://www.gaodingcareer.com/tags/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
     
-    <category term="回国求职" scheme="https://blog.gaodingcareer.com/tags/%E5%9B%9E%E5%9B%BD%E6%B1%82%E8%81%8C/"/>
+    <category term="回国求职" scheme="https://www.gaodingcareer.com/tags/%E5%9B%9E%E5%9B%BD%E6%B1%82%E8%81%8C/"/>
     
-    <category term="职业规划" scheme="https://blog.gaodingcareer.com/tags/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/"/>
+    <category term="职业规划" scheme="https://www.gaodingcareer.com/tags/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/"/>
     
-    <category term="中国航天科技集团" scheme="https://blog.gaodingcareer.com/tags/%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%A7%91%E6%8A%80%E9%9B%86%E5%9B%A2/"/>
+    <category term="中国航天科技集团" scheme="https://www.gaodingcareer.com/tags/%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%A7%91%E6%8A%80%E9%9B%86%E5%9B%A2/"/>
     
-    <category term="中国航天科工集团" scheme="https://blog.gaodingcareer.com/tags/%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%A7%91%E5%B7%A5%E9%9B%86%E5%9B%A2/"/>
+    <category term="中国航天科工集团" scheme="https://www.gaodingcareer.com/tags/%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E7%A7%91%E5%B7%A5%E9%9B%86%E5%9B%A2/"/>
     
   </entry>
   
   <entry>
     <title>中车集团科技岗招聘解析</title>
-    <link href="https://blog.gaodingcareer.com/ae1a7d37-ab90-4422-b6d3-059c56d5c052/"/>
-    <id>https://blog.gaodingcareer.com/ae1a7d37-ab90-4422-b6d3-059c56d5c052/</id>
+    <link href="https://www.gaodingcareer.com/ae1a7d37-ab90-4422-b6d3-059c56d5c052/"/>
+    <id>https://www.gaodingcareer.com/ae1a7d37-ab90-4422-b6d3-059c56d5c052/</id>
     <published>2025-02-26T13:22:39.000Z</published>
     <updated>2025-02-26T13:22:39.201Z</updated>
     
@@ -516,25 +516,25 @@
     
     
     
-    <category term="留学生就业" scheme="https://blog.gaodingcareer.com/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
+    <category term="留学生就业" scheme="https://www.gaodingcareer.com/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
     
     
-    <category term="回国求职攻略" scheme="https://blog.gaodingcareer.com/tags/%E5%9B%9E%E5%9B%BD%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5/"/>
+    <category term="回国求职攻略" scheme="https://www.gaodingcareer.com/tags/%E5%9B%9E%E5%9B%BD%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5/"/>
     
-    <category term="职业目标规划" scheme="https://blog.gaodingcareer.com/tags/%E8%81%8C%E4%B8%9A%E7%9B%AE%E6%A0%87%E8%A7%84%E5%88%92/"/>
+    <category term="职业目标规划" scheme="https://www.gaodingcareer.com/tags/%E8%81%8C%E4%B8%9A%E7%9B%AE%E6%A0%87%E8%A7%84%E5%88%92/"/>
     
-    <category term="简历优化技巧" scheme="https://blog.gaodingcareer.com/tags/%E7%AE%80%E5%8E%86%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7/"/>
+    <category term="简历优化技巧" scheme="https://www.gaodingcareer.com/tags/%E7%AE%80%E5%8E%86%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7/"/>
     
-    <category term="面试准备策略" scheme="https://blog.gaodingcareer.com/tags/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E7%AD%96%E7%95%A5/"/>
+    <category term="面试准备策略" scheme="https://www.gaodingcareer.com/tags/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E7%AD%96%E7%95%A5/"/>
     
-    <category term="Offer选择与分析" scheme="https://blog.gaodingcareer.com/tags/Offer%E9%80%89%E6%8B%A9%E4%B8%8E%E5%88%86%E6%9E%90/"/>
+    <category term="Offer选择与分析" scheme="https://www.gaodingcareer.com/tags/Offer%E9%80%89%E6%8B%A9%E4%B8%8E%E5%88%86%E6%9E%90/"/>
     
   </entry>
   
   <entry>
     <title>海归小白的国企求职心路历程</title>
-    <link href="https://blog.gaodingcareer.com/c75a1272-3db5-4c93-8899-96269b1acd99/"/>
-    <id>https://blog.gaodingcareer.com/c75a1272-3db5-4c93-8899-96269b1acd99/</id>
+    <link href="https://www.gaodingcareer.com/c75a1272-3db5-4c93-8899-96269b1acd99/"/>
+    <id>https://www.gaodingcareer.com/c75a1272-3db5-4c93-8899-96269b1acd99/</id>
     <published>2025-02-26T12:37:56.000Z</published>
     <updated>2025-02-26T12:37:56.936Z</updated>
     
@@ -549,25 +549,25 @@
     
     
     
-    <category term="国央企求职" scheme="https://blog.gaodingcareer.com/categories/%E5%9B%BD%E5%A4%AE%E4%BC%81%E6%B1%82%E8%81%8C/"/>
+    <category term="国央企求职" scheme="https://www.gaodingcareer.com/categories/%E5%9B%BD%E5%A4%AE%E4%BC%81%E6%B1%82%E8%81%8C/"/>
     
     
-    <category term="求职策略" scheme="https://blog.gaodingcareer.com/tags/%E6%B1%82%E8%81%8C%E7%AD%96%E7%95%A5/"/>
+    <category term="求职策略" scheme="https://www.gaodingcareer.com/tags/%E6%B1%82%E8%81%8C%E7%AD%96%E7%95%A5/"/>
     
-    <category term="海归就业" scheme="https://blog.gaodingcareer.com/tags/%E6%B5%B7%E5%BD%92%E5%B0%B1%E4%B8%9A/"/>
+    <category term="海归就业" scheme="https://www.gaodingcareer.com/tags/%E6%B5%B7%E5%BD%92%E5%B0%B1%E4%B8%9A/"/>
     
-    <category term="国企入职" scheme="https://blog.gaodingcareer.com/tags/%E5%9B%BD%E4%BC%81%E5%85%A5%E8%81%8C/"/>
+    <category term="国企入职" scheme="https://www.gaodingcareer.com/tags/%E5%9B%BD%E4%BC%81%E5%85%A5%E8%81%8C/"/>
     
-    <category term="职场适应" scheme="https://blog.gaodingcareer.com/tags/%E8%81%8C%E5%9C%BA%E9%80%82%E5%BA%94/"/>
+    <category term="职场适应" scheme="https://www.gaodingcareer.com/tags/%E8%81%8C%E5%9C%BA%E9%80%82%E5%BA%94/"/>
     
-    <category term="海外经验转换" scheme="https://blog.gaodingcareer.com/tags/%E6%B5%B7%E5%A4%96%E7%BB%8F%E9%AA%8C%E8%BD%AC%E6%8D%A2/"/>
+    <category term="海外经验转换" scheme="https://www.gaodingcareer.com/tags/%E6%B5%B7%E5%A4%96%E7%BB%8F%E9%AA%8C%E8%BD%AC%E6%8D%A2/"/>
     
   </entry>
   
   <entry>
     <title>2025 年最值得关注的求职网站和平台</title>
-    <link href="https://blog.gaodingcareer.com/2682537a-ce16-4571-9124-a244c1c83fd2/"/>
-    <id>https://blog.gaodingcareer.com/2682537a-ce16-4571-9124-a244c1c83fd2/</id>
+    <link href="https://www.gaodingcareer.com/2682537a-ce16-4571-9124-a244c1c83fd2/"/>
+    <id>https://www.gaodingcareer.com/2682537a-ce16-4571-9124-a244c1c83fd2/</id>
     <published>2025-02-26T12:29:59.000Z</published>
     <updated>2025-02-26T12:29:59.988Z</updated>
     
@@ -582,25 +582,25 @@
     
     
     
-    <category term="留学生就业" scheme="https://blog.gaodingcareer.com/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
+    <category term="留学生就业" scheme="https://www.gaodingcareer.com/categories/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
     
     
-    <category term="海归回国求职攻略" scheme="https://blog.gaodingcareer.com/tags/%E6%B5%B7%E5%BD%92%E5%9B%9E%E5%9B%BD%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5/"/>
+    <category term="海归回国求职攻略" scheme="https://www.gaodingcareer.com/tags/%E6%B5%B7%E5%BD%92%E5%9B%9E%E5%9B%BD%E6%B1%82%E8%81%8C%E6%94%BB%E7%95%A5/"/>
     
-    <category term="信息不对称问题解决" scheme="https://blog.gaodingcareer.com/tags/%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/"/>
+    <category term="信息不对称问题解决" scheme="https://www.gaodingcareer.com/tags/%E4%BF%A1%E6%81%AF%E4%B8%8D%E5%AF%B9%E7%A7%B0%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/"/>
     
-    <category term="简历优化与适配性提升" scheme="https://blog.gaodingcareer.com/tags/%E7%AE%80%E5%8E%86%E4%BC%98%E5%8C%96%E4%B8%8E%E9%80%82%E9%85%8D%E6%80%A7%E6%8F%90%E5%8D%87/"/>
+    <category term="简历优化与适配性提升" scheme="https://www.gaodingcareer.com/tags/%E7%AE%80%E5%8E%86%E4%BC%98%E5%8C%96%E4%B8%8E%E9%80%82%E9%85%8D%E6%80%A7%E6%8F%90%E5%8D%87/"/>
     
-    <category term="人脉积累与内推机会" scheme="https://blog.gaodingcareer.com/tags/%E4%BA%BA%E8%84%89%E7%A7%AF%E7%B4%AF%E4%B8%8E%E5%86%85%E6%8E%A8%E6%9C%BA%E4%BC%9A/"/>
+    <category term="人脉积累与内推机会" scheme="https://www.gaodingcareer.com/tags/%E4%BA%BA%E8%84%89%E7%A7%AF%E7%B4%AF%E4%B8%8E%E5%86%85%E6%8E%A8%E6%9C%BA%E4%BC%9A/"/>
     
-    <category term="面试准备策略和技巧" scheme="https://blog.gaodingcareer.com/tags/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E7%AD%96%E7%95%A5%E5%92%8C%E6%8A%80%E5%B7%A7/"/>
+    <category term="面试准备策略和技巧" scheme="https://www.gaodingcareer.com/tags/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87%E7%AD%96%E7%95%A5%E5%92%8C%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
   <entry>
     <title>AI 时代，留学生应该学习哪些技能才能保持竞争力？</title>
-    <link href="https://blog.gaodingcareer.com/a478157e-42f0-44f8-b1c2-5b397b0b6abd/"/>
-    <id>https://blog.gaodingcareer.com/a478157e-42f0-44f8-b1c2-5b397b0b6abd/</id>
+    <link href="https://www.gaodingcareer.com/a478157e-42f0-44f8-b1c2-5b397b0b6abd/"/>
+    <id>https://www.gaodingcareer.com/a478157e-42f0-44f8-b1c2-5b397b0b6abd/</id>
     <published>2025-02-26T11:13:35.000Z</published>
     <updated>2025-02-26T11:13:35.799Z</updated>
     
@@ -615,18 +615,18 @@
     
     
     
-    <category term="行业求职" scheme="https://blog.gaodingcareer.com/categories/%E8%A1%8C%E4%B8%9A%E6%B1%82%E8%81%8C/"/>
+    <category term="行业求职" scheme="https://www.gaodingcareer.com/categories/%E8%A1%8C%E4%B8%9A%E6%B1%82%E8%81%8C/"/>
     
     
-    <category term="留学生就业" scheme="https://blog.gaodingcareer.com/tags/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
+    <category term="留学生就业" scheme="https://www.gaodingcareer.com/tags/%E7%95%99%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A/"/>
     
-    <category term="回国求职" scheme="https://blog.gaodingcareer.com/tags/%E5%9B%9E%E5%9B%BD%E6%B1%82%E8%81%8C/"/>
+    <category term="回国求职" scheme="https://www.gaodingcareer.com/tags/%E5%9B%9E%E5%9B%BD%E6%B1%82%E8%81%8C/"/>
     
-    <category term="AI技能" scheme="https://blog.gaodingcareer.com/tags/AI%E6%8A%80%E8%83%BD/"/>
+    <category term="AI技能" scheme="https://www.gaodingcareer.com/tags/AI%E6%8A%80%E8%83%BD/"/>
     
-    <category term="竞争力提升" scheme="https://blog.gaodingcareer.com/tags/%E7%AB%9E%E4%BA%89%E5%8A%9B%E6%8F%90%E5%8D%87/"/>
+    <category term="竞争力提升" scheme="https://www.gaodingcareer.com/tags/%E7%AB%9E%E4%BA%89%E5%8A%9B%E6%8F%90%E5%8D%87/"/>
     
-    <category term="搞定Offer" scheme="https://blog.gaodingcareer.com/tags/%E6%90%9E%E5%AE%9AOffer/"/>
+    <category term="搞定Offer" scheme="https://www.gaodingcareer.com/tags/%E6%90%9E%E5%AE%9AOffer/"/>
     
   </entry>
   
