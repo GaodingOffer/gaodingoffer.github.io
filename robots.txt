@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.gaodingcareer.com/sitemap.xml
+Sitemap: https://www.gaodingcareer.com/sitemap.txt
