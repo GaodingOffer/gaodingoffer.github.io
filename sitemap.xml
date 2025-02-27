@@ -1008,4 +1008,11 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://blog.gaodingcareer.com/categories/%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2025-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 </urlset>
