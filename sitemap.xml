@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.gaodingcareer.com/f34fa38a-4f23-4763-a161-97a6a9229a11/</loc>
+    
+    <lastmod>2025-03-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gaodingcareer.com/7ee773ba-dd2b-43a8-94fb-cf581b98d9fb/</loc>
     
     <lastmod>2025-03-01</lastmod>
@@ -2326,6 +2335,13 @@
   
   <url>
     <loc>https://www.gaodingcareer.com/tags/Offer%E9%80%89%E6%8B%A9/</loc>
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gaodingcareer.com/tags/%E5%9B%9E%E5%9B%BD%E5%B0%B1%E4%B8%9A%E8%B6%8B%E5%8A%BF/</loc>
     <lastmod>2025-03-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
