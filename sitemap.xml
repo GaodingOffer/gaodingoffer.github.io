@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.gaodingcareer.com/2219e748-e3fe-4d17-b2d6-ba1d8b586c3b/</loc>
+    
+    <lastmod>2025-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gaodingcareer.com/b6cccd26-7b0f-409a-b321-c76aca4fac69/</loc>
+    
+    <lastmod>2025-03-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gaodingcareer.com/about/</loc>
     
     <lastmod>2025-03-04</lastmod>
@@ -120,15 +138,6 @@
   
   <url>
     <loc>https://www.gaodingcareer.com/305a4e9b-3cf3-4457-a38b-812bc6aaa415/</loc>
-    
-    <lastmod>2025-03-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gaodingcareer.com/b6cccd26-7b0f-409a-b321-c76aca4fac69/</loc>
     
     <lastmod>2025-03-03</lastmod>
     
@@ -1391,15 +1400,6 @@
     <loc>https://www.gaodingcareer.com/7ee773ba-dd2b-43a8-94fb-cf581b98d9fb/</loc>
     
     <lastmod>2025-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gaodingcareer.com/2219e748-e3fe-4d17-b2d6-ba1d8b586c3b/</loc>
-    
-    <lastmod>2025-02-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3812,20 +3812,6 @@
   
   <url>
     <loc>https://www.gaodingcareer.com/categories/%E7%AC%94%E8%AF%95%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2025-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gaodingcareer.com/categories/%E5%9B%BD%E4%BC%81%E6%8B%9B%E8%81%98/</loc>
-    <lastmod>2025-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gaodingcareer.com/categories/%E5%9B%BD%E5%A4%AE%E4%BC%81%E6%B1%82%E8%81%8C-%E5%AE%9E%E4%B9%A0%E5%86%85%E6%8E%A8/</loc>
     <lastmod>2025-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
