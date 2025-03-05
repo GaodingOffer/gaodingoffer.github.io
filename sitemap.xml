@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.gaodingcareer.com/about/</loc>
+    
+    <lastmod>2025-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gaodingcareer.com/pre-work-education/</loc>
+    
+    <lastmod>2025-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gaodingcareer.com/5e1b46eb-4116-423b-8a1a-a20798b16d7c/</loc>
     
     <lastmod>2025-03-05</lastmod>
@@ -336,15 +354,6 @@
   
   <url>
     <loc>https://www.gaodingcareer.com/b6cccd26-7b0f-409a-b321-c76aca4fac69/</loc>
-    
-    <lastmod>2025-03-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gaodingcareer.com/about/</loc>
     
     <lastmod>2025-03-04</lastmod>
     
