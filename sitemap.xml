@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.gaodingcareer.com/333/</loc>
+    
+    <lastmod>2025-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gaodingcareer.com/5e1b46eb-4116-423b-8a1a-a20798b16d7c/</loc>
+    
+    <lastmod>2025-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gaodingcareer.com/a827c1cb-e873-4f24-959d-f0c512397a89/</loc>
     
     <lastmod>2025-03-05</lastmod>
@@ -1938,15 +1956,6 @@
   
   <url>
     <loc>https://www.gaodingcareer.com/266/</loc>
-    
-    <lastmod>2025-02-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gaodingcareer.com/333/</loc>
     
     <lastmod>2025-02-27</lastmod>
     
@@ -4236,6 +4245,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://www.gaodingcareer.com/tags/%E5%86%85%E6%8E%A8/</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -4274,13 +4290,6 @@
   </url>
   
   <url>
-    <loc>https://www.gaodingcareer.com/categories/%E5%AE%9E%E4%B9%A0%E5%86%85%E6%8E%A8/</loc>
-    <lastmod>2025-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.gaodingcareer.com/categories/%E8%81%8C%E5%9C%BA%E6%88%90%E9%95%BF/</loc>
     <lastmod>2025-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -4303,6 +4312,13 @@
   
   <url>
     <loc>https://www.gaodingcareer.com/categories/%E7%AC%94%E8%AF%95%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2025-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gaodingcareer.com/categories/%E5%86%85%E6%8E%A8/</loc>
     <lastmod>2025-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
